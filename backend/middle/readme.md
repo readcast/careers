@@ -43,4 +43,4 @@ We expect a methodical work approach and a high degree of self-initiative. We va
    - Flexible working hours
    - Startup Environment
 # HOW TO APPLY
- - Complete this TestTask (NodeJs REST API)
+ - Complete this [TestTask (NodeJs REST API)](./test-task.md)
