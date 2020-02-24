@@ -43,7 +43,7 @@ At Readcast we’re always looking for talented and self-motivated people to joi
 1. [NodeJs Developer (Mid-Senior)](./backend/middle)
 2. [FrontEnd Developer ReactJs (Junior)](./frontend/junior/react)
 3. FrontEnd Developer Angular/Ionic Framework (Middle)
-4. UI/UX Designer (Senior)
+4. [UI/UX Designer (Senior)](./design/senior)
 
 ## So, if you:
  - have experience or are interested in learning any of those technologies,
