@@ -39,4 +39,4 @@ We expect a methodical work approach and a high degree of self-initiative. We va
    - Flexible working hours
    - Startup Environment
 # HOW TO APPLY
- - Send your CV + Links to POrtofolio to [valentinb@readcast.net](mailto:valentinb@readcast.net)
+ - Send your CV + Links to Portfolio to [valentinb@readcast.net](mailto:valentinb@readcast.net)
