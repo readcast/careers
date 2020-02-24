@@ -42,5 +42,5 @@ We expect a methodical work approach and a high degree of self-initiative. We va
    - Free Coffee/Tea
    - Flexible working hours
    - Startup Environment
-# APPLY
- - TestTask (NodeJs REST API)
+# HOW TO APPLY
+ - Complete this TestTask (NodeJs REST API)
