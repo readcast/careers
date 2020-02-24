@@ -15,26 +15,29 @@ At Readcast we’re always looking for talented and self-motivated people to joi
  `4. Not only customer collaboration, but also productive partnerships`
  
  
- ## Our Tech-Stack
- `1. NodeJs`
+## Our Tech-Stack
+### Backend
+ `- NodeJs`
  
- `2. Javascript`
+ `- Javascript`
  
- `3. Typescript`
+ `- Typescript`
  
- `4. Angular`
+ `- Docker`
  
- `5. ReactJs`
+ `- PostgreSQL`
  
- `6. Ionic Framework v3,v4`
+ `- MongoDB`
+  
+### Frontend
+ `- Angular`
  
- `7. Electron`
+ `- ReactJs`
  
- `8. Docker`
+ `- Ionic Framework v3,v4`
  
- `9. PostgreSQL`
+ `- Electron`
  
- `10. MongoDB`
  
 ## Open Positions
 1. NodeJs Developer (Mid-Senior)
