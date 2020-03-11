@@ -1,6 +1,6 @@
 ## Test Task - ReactJs UI from Design
 ### Description
-- Create a react application based on disgn bellow
+- Create a react application based on design bellow
 
 ### Task Requirements
 * User Enter on screen-1 and click on one of three smiles, then application present screen-2
