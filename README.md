@@ -40,10 +40,13 @@ At Readcast we’re always looking for talented and self-motivated people to joi
  
  
 ## Open Positions
+1. [FullStack Web Developer](./full-stack)
+    * MEAN/MERN Stack
+    * PEAN/PERN Stack
 1. [NodeJs Developer (Mid-Senior)](./backend/middle)
-2. [FrontEnd Developer ReactJs (Junior)](./frontend/junior/react)
-3. FrontEnd Developer Angular/Ionic Framework (Middle)
-4. [UI/UX Designer (Senior)](./design/senior)
+1. [FrontEnd Developer ReactJs (Junior)](./frontend/junior/react)
+1. FrontEnd Developer Angular/Ionic Framework (Middle)
+1. [UI/UX Designer (Senior)](./design/senior)
 
 ## So, if you:
  - have experience or are interested in learning any of those technologies,
