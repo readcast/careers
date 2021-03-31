@@ -1,6 +1,5 @@
 
-# JOB TYPE
- - Node JS Developer
+# Node JS Developer
  - Seniority Level: Mid/Senior
  - Employment Type: Full-time
  - Industry: SPA Web Applications
