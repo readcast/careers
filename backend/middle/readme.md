@@ -1,7 +1,7 @@
 
 # Node JS Developer
  - Seniority Level: Mid/Senior
- - Employment Type: Full-time
+ - Employment Type: Full-time/Remote
  - Industry: SPA Web Applications
  - Location: Chisinau, Moldova
 # JOB  DESCRIPTION
