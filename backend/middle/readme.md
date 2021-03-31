@@ -37,10 +37,8 @@ We expect a methodical work approach and a high degree of self-initiative. We va
  - Enthusiasm, humour, and fun!
 # WHAT WE OFFER
  - A good salary (based on your experience)
- - Office in the city center with: 
-   - Kitchen
-   - Free Coffee/Tea
-   - Flexible working hours
-   - Startup Environment
+ - Remote Working
+ - Flexible working hours
 # HOW TO APPLY
+ - Send your CV @: [hello@readcast.net](mailto:hello@readcast.net)
  - Complete this [TestTask (NodeJs REST API)](./test-task.md)
